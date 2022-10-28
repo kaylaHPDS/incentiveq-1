@@ -11,7 +11,7 @@ html {
 body {
     position: relative;
     min-height: 100%;
-    padding-bottom: 6.47rem;
+    /* padding-bottom: 6.47rem; */
     box-sizing: inherit;
 }
 
@@ -31,9 +31,12 @@ body {
 } */
 
 /* Main */
-/* .full-body {
+.full-body {
     background-image: linear-gradient(to bottom, #b287a3, #7e4e60);
-} */
+}
+main {
+    padding-bottom: 6.47rem;
+}
 
 /* Footer */
 footer {
@@ -41,4 +44,10 @@ footer {
     right: 0;
     left: 0;
     bottom: 0;
+    font-size: 12px;
+    font-style: italic;
+}
+
+footer a {
+    color: #fff;
 }
