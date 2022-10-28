@@ -15,12 +15,27 @@ body {
     box-sizing: inherit;
 }
 
+/* Global Styles */
+.img-border {
+    border-radius: 20px;
+}
+
 .custom-btn {
     background-color: #b8d4e3;
 }
 
+/* Header */
+/* header {
+    background-color: #b8d4e3;
+    box-shadow: 1px 4px 4px gray;
+} */
 
+/* Main */
+/* .full-body {
+    background-image: linear-gradient(to bottom, #b287a3, #7e4e60);
+} */
 
+/* Footer */
 footer {
     position: absolute;
     right: 0;
