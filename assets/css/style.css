@@ -56,9 +56,9 @@ footer {
     bottom: 0;
     font-size: 12px;
     font-style: italic;
-    background-image: linear-gradient(to left, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8));
+    background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8));
 }
 
 footer a {
-    color: #fff;
+    color: #212121;
 }
