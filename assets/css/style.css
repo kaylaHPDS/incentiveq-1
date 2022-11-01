@@ -1,3 +1,10 @@
+/* Color Palette
+    Blue #b8d4e3, rgb(184, 212, 227)
+    Yellow #ffd55b
+    Lavendar #b287a3
+    Plum #7e4e60
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +19,8 @@ body {
     position: relative;
     min-height: 100%;
     box-sizing: inherit;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/burst-dice-games-bw-2230x1486.jpg");
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/burst-dice-games-bw-2230x1486.jpg"); */
+    background-image: url("../images/filter-pexels-anastasia-shuraeva-8466167.jpg");
     background-position: center center; 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -34,7 +42,8 @@ body {
 
 /* Header */
 header {
-    background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8));
+    /* background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8)); */
+    background-color: rgba(184, 212, 227, 0.8);
 }
 
 /* Main */
@@ -56,7 +65,8 @@ footer {
     bottom: 0;
     font-size: 12px;
     font-style: italic;
-    background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8));
+    /* background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8)); */
+    background-color: rgba(184, 212, 227, 0.8);
 }
 
 footer a {
