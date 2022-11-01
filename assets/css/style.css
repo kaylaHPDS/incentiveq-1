@@ -44,7 +44,7 @@ body {
 /* Header */
 header {
     /* background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8)); */
-    background-color: rgba(184, 212, 227, 0.9);
+    background-color: rgba(184, 212, 227, 1);
 }
 
 /* Main */
@@ -67,7 +67,7 @@ footer {
     font-size: 12px;
     font-style: italic;
     /* background-image: linear-gradient(to right, rgba(178, 135, 163, 0.8), rgba(126, 78, 96, 0.8)); */
-    background-color: rgba(184, 212, 227, 0.9);
+    background-color: rgba(184, 212, 227, 1);
 }
 
 footer a {
